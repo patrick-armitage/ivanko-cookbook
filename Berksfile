@@ -1,0 +1,21 @@
+source "https://supermarket.chef.io"
+
+metadata
+
+cookbook "apt"
+cookbook "sudo"
+cookbook "tmux"
+cookbook "vim"
+cookbook "ruby_rbenv"
+cookbook "ruby_build"
+cookbook "ssh_known_hosts"
+cookbook "hostsfile"
+cookbook "sqlite"
+cookbook "mysql"
+cookbook "mysql2_chef_gem"
+cookbook "database"
+cookbook "git"
+cookbook "puma"
+cookbook "nginx"
+cookbook "application_ruby"
+cookbook "redis"
